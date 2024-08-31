@@ -1,4 +1,5 @@
 ## Hi there 👋
+unzip git_backup.zip
 
 <!--
 **sihvvm/sihvvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
